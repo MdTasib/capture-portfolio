@@ -60,9 +60,6 @@ button{
         font-size: 1.4rem;
         line-height: 130%;
     }
-    img {
-        width: 100%;
-    }
 
 `;
 
